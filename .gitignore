@@ -1,0 +1,4 @@
+librairies_pdf/vendor/
+librairies_pdf/dompdf/
+librairies_pdf/composer.json
+librairies_pdf/composer.lock
